@@ -1,0 +1,2 @@
+# gateway-checker-bot
+bot
